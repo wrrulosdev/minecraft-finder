@@ -1,0 +1,5 @@
+loguru>=0.7.3
+orjson>=3.10.15
+fastapi>=0.115.7
+python-dotenv>=1.0.1
+uvicorn>=0.34.0
