@@ -1,4 +1,4 @@
-# Minecraft Finder Base
+# Minecraft Finder Base (In RAM)
 
 This base is made from the finder that was previously in [MCPTool](https://mcptool.net)
 
